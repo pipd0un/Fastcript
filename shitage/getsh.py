@@ -80,3 +80,5 @@ if __name__ == "__main__":
             consts.error("INVALID ARGUMENT")
     else:
         consts.error("INVALID ARGUMENT")
+    
+    # python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*

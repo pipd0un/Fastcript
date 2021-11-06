@@ -11,7 +11,7 @@ license='MIT',
 packages=find_packages(),
 install_requires=['os','subprocess','sys'],
 keywords=['netsh','WLAN','passwords'],
-classifiers=["Intended Audience :: Entertainment",
+classifiers=["Intended Audience :: Education",
              "Programming Language :: Python :: 3",
              "Operating System :: Microsoft :: Windows",],
 zip_safe=False)
