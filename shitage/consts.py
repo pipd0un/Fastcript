@@ -3,7 +3,7 @@ DESC = """
 \tMy dogshit script that use system32 app
 """
 
-VERSION=    '0.0.1'
+VERSION=    '0.0.2'
 WLANSCMD=   "netsh wlan show profiles"
 WLANKEYCMD= "netsh wlan show profile name=\"{}\" key=clear"
 
