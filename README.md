@@ -1,5 +1,5 @@
 # Fastcript
-My Dumbish System32 apps wrapper
+My Dumbish System32 apps wrapper \n
 Now Only contains wifi password display :D
 
 # Changelog
